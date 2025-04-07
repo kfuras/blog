@@ -23,8 +23,8 @@ Currently, I'm diving deeper into **Kubernetes, Python, and cybersecurity**.
 - **Self-Hosting & Web:** WordPress, MongoDB, Arr applications, Plex, Home Assistant, Unifi Controller  
 
 ## Let's Connect
-- **Blog:** [kjetilfuras.com](https://kjetilfuras.com/)  
-- **GitHub:** You're already here!  
+- **Blog:** [kjetilfuras.com](https://kjetilfuras.com/) You're already here!  
+- **GitHub:**  [Kjetil Furås](https://github.com/kfuras/)
 - **LinkedIn:** [Kjetil Furås](https://www.linkedin.com/in/kjetil-furas/)
 
 ## Latest blog posts
@@ -36,3 +36,5 @@ Currently, I'm diving deeper into **Kubernetes, Python, and cybersecurity**.
 - [Enable AUTOPROTECT with Bicep](https://kjetilfuras.com/enable-autoprotect-with-bicep/)
 
 Always exploring new tech, breaking things, and learning along the way!  
+
+[def]: https://github.com/kfuras/
