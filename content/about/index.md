@@ -1,3 +1,32 @@
+---
+title: "About"
+date: 2025-04-07T19:29:18+02:00
+draft: false
+
+showDate: false
+showDateOnlyInArticle: false
+showDateUpdated: false
+showHeadingAnchors: false
+showPagination: false
+showReadingTime: false
+showTableOfContents: true
+showTaxonomies: false
+showWordCount: false
+showSummary: false
+sharingLinks: false
+showEdit: false
+showViews: false
+showLikes: false
+showAuthor: true
+layoutBackgroundHeaderSpace: false
+
+# SEO
+summary: "Get to know Kjetil Furas – an IT consultant focused on cloud, automation, and security."
+description: "Learn more about Kjetil Furas, a hands-on IT consultant sharing deep-dive guides on Azure, Hugo, and tech automation."
+keywords: ["About"]
+image: "img/about-preview.png"
+---
+
 ## Hi there, I'm Kjetil Furås 👋  
 
 **Cloud & DevOps Enthusiast | IT Professional | Technical Blogger**  
@@ -23,18 +52,6 @@ Currently, I'm diving deeper into **Kubernetes, Python, and cybersecurity**.
 - **Self-Hosting & Web:** WordPress, MongoDB, Arr applications, Plex, Home Assistant, Unifi Controller  
 
 ## Let's Connect
-- **Blog:** [kjetilfuras.com](https://kjetilfuras.com/) You're already here!  
-- **GitHub:**  [Kjetil Furås](https://github.com/kfuras/)
-- **LinkedIn:** [Kjetil Furås](https://www.linkedin.com/in/kjetil-furas/)
-
-## Latest blog posts
-- [Automate Blog Image Creation Using Python](https://kjetilfuras.com/automate-blog-image-creation-using-python/)
-- [Forgot Windows Password](https://kjetilfuras.com/forgot-windows-admin-password/)
-- [How to List All Team Owners in Microsoft Teams](https://kjetilfuras.com/list-all-team-owners/)
-- [Custom Marking Colors in Microsoft Purview](https://kjetilfuras.com/custom-marking-colors-in-microsoft-purview/)
-- [Securing Tier-0 Systems in Azure Arc](https://kjetilfuras.com/securing-tier-0-systems-in-azure-arc/)
-- [Enable AUTOPROTECT with Bicep](https://kjetilfuras.com/enable-autoprotect-with-bicep/)
-
-Always exploring new tech, breaking things, and learning along the way!  
-
-[def]: https://github.com/kfuras/
+- [Blog](https://kjetilfuras.com/) You're already here! 
+- [GitHub](https://github.com/kfuras/)
+- [LinkedIn](https://www.linkedin.com/in/kjetil-furas/)
