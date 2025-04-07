@@ -17,4 +17,4 @@ INDEX_FILE="$PAGE_PATH/index.md"
 hugo new --kind page "$PAGE_SLUG/index.md" >/dev/null
 
 # Final confirmation
-echo "✅ Page created at \"$INDEX_FILE\""
+echo "✅ Page created at \"$PAGE_PATH/\""
