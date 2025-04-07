@@ -26,3 +26,7 @@ description: "Learn more about Kjetil Furas, a hands-on IT consultant sharing de
 keywords: ["Contact"]
 image: "img/about-preview.png"
 ---
+
+I would love to hear from you! 
+
+Email me at contact@kjetilfuras.com for all inquiries or requests.
