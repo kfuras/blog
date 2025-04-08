@@ -24,7 +24,6 @@ layoutBackgroundHeaderSpace: false
 summary: "Get to know Kjetil Furas – an IT consultant focused on cloud, automation, and security."
 description: "Learn more about Kjetil Furas, a hands-on IT consultant sharing deep-dive guides on Azure, Hugo, and tech automation."
 keywords: ["About"]
-image: "img/about-preview.png"
 ---
 
 ## Hi there, I'm Kjetil Furås 👋  

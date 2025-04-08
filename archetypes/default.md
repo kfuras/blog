@@ -1,28 +1,47 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+# Auto-generated post title from the filename
+title: "{{ replace .File.ContentBaseName "-" " " | title }}"
+
+# SEO meta description (keep it ~160 characters)
+description: ""
+
+# Summary for previews and list pages
+summary: ""
+
+# Creation and last modified dates
 date: {{ .Date }}
-draft: false
+lastmod: {{ .Date }}
 
-showDate: false
-showDateOnlyInArticle: false
-showDateUpdated: false
-showHeadingAnchors: false
-showPagination: false
-showReadingTime: false
-showTableOfContents: true
-showTaxonomies: false
-showWordCount: false
-showSummary: false
-sharingLinks: false
-showEdit: false
-showViews: false
-showLikes: false
-showAuthor: true
-layoutBackgroundHeaderSpace: false
+# Draft mode enabled by default until ready to publish
+draft: true
 
-# SEO
-summary: "Get to know Kjetil Furas – an IT consultant focused on cloud, automation, and security."
-description: "Learn more about Kjetil Furas, a hands-on IT consultant sharing deep-dive guides on Azure, Hugo, and tech automation."
-keywords: ["{{ replace .Name "-" " " | title }}"]
-image: "img/about-preview.png"
+# Clean URL path
+slug: "{{ .File.ContentBaseName }}"
+
+# Optional taxonomy
+categories:
+  - Blog
+tags:
+  - ""
+
+# Author name (optional)
+author: "Kjetil Furås"
+
+# Enable summary on list pages
+showSummary: true
+
+# Social sharing & Open Graph image (also used as cover image)
+# This image should be placed next to index.md as 'featured.png'
+image:
+  src: "posts/{{ .File.ContentBaseName }}/featured.png"
+  previewOnly: false
+
+# Cover image shown at top of post (same as featured)
+cover:
+  image: "posts/{{ .File.ContentBaseName }}/featured.png"
+  alt: ""     # Add a descriptive alt text manually later
+  caption: "" # Optional caption
+
+# Canonical URL for SEO — change this if the post is mirrored elsewhere
+canonicalURL: "https://kjetilfuras.com/posts/{{ .File.ContentBaseName }}/"
 ---
