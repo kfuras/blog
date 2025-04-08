@@ -1,8 +1,7 @@
 ---
-title: "Contact"
-date: 2025-04-07T19:36:25+02:00
+title: "Welcome to KjetilFuras.com"
+summary: "Hands-on tech guides and insights from the cloud, security, and automation trenches."
 draft: false
-
 showDate: false
 showDateOnlyInArticle: false
 showDateUpdated: false
@@ -24,7 +23,6 @@ layoutBackgroundHeaderSpace: false
 summary: "Get to know Kjetil Furås – an IT consultant focused on cloud, automation, and security."
 description: "Learn more about Kjetil Furås, a hands-on IT consultant sharing deep-dive guides on Azure, Hugo, and tech automation."
 keywords:
-  - contact
   - kjetil furas
   - it consultant
   - cloud
@@ -32,6 +30,11 @@ keywords:
   - security
 ---
 
-I would love to hear from you! 
+Hi, I’m Kjetil — an IT consultant with a passion for cloud, cybersecurity, and automation.
 
-Email me at contact@kjetilfuras.com for all inquiries or requests.
+On this blog, I share practical guides, troubleshooting tips, and hands-on insights to help IT pros and tech enthusiasts solve real-world challenges. 
+
+With 10+ years of experience, I focus on making complex topics simple — covering everything from Azure and M365 to automation and security.
+
+👇 Check out my recent articles below 👇
+
