@@ -1,0 +1,45 @@
+.certifications-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin-top: 2rem;
+}
+
+.certification {
+    text-align: center;
+    margin: 10px;
+    flex-basis: 20%;
+}
+
+.certification img {
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.certification p {
+    margin-top: 10px;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+@media (max-width: 768px) {
+    .certifications-container {
+        justify-content: center;
+    }
+
+    .certification {
+        flex-basis: 90%;
+        margin: 10px 5%;
+    }
+
+    .certification img {
+        width: 80px;
+    }
+
+    .certification p {
+        font-size: 14px;
+    }
+}

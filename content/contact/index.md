@@ -19,6 +19,7 @@ showViews: false
 showLikes: false
 showAuthor: true
 layoutBackgroundHeaderSpace: false
+showZenMode: false
 
 # SEO
 summary: "Get to know Kjetil Furås – an IT consultant focused on cloud, automation, and security."

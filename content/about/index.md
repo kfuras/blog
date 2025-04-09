@@ -19,6 +19,7 @@ showViews: false
 showLikes: false
 showAuthor: true
 layoutBackgroundHeaderSpace: false
+showZenMode: false
 
 # SEO
 summary: "Get to know Kjetil Furås – an IT consultant focused on cloud, automation, and security."
@@ -60,3 +61,7 @@ Currently, I'm diving deeper into **Kubernetes, Python, and cybersecurity**.
 - [Blog](https://kjetilfuras.com/) You're already here! 
 - [GitHub](https://github.com/kfuras/)
 - [LinkedIn](https://www.linkedin.com/in/kjetil-furas/)
+
+## My Certifications
+
+{{< certifications >}}
