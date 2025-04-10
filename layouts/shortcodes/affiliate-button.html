@@ -1,0 +1,12 @@
+<div style="text-align: center; margin: 2em 0;">
+    <a 
+      class="affiliate-button"
+      href="{{ .Get "url" }}?utm_source=kjetilfuras.com&utm_medium=affiliate&utm_campaign={{ .Get "campaign" | default "default" }}"
+      target="_blank"
+      rel="nofollow sponsored noopener"
+      data-ga-category="Affiliate"
+      data-ga-label="{{ .Get "label" | default (.Get "text") }}"
+    >
+      {{ .Get "text" }}
+    </a>
+  </div>

@@ -43,3 +43,18 @@
         font-size: 14px;
     }
 }
+
+.affiliate-button {
+    display: inline-block;
+    background-color: #007acc;
+    color: white;
+    padding: 0.6em 1.2em;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: background-color 0.2s ease;
+  }
+  
+  .affiliate-button:hover {
+    background-color: #005f99;
+  }
