@@ -1,12 +1,19 @@
-<div style="text-align: center; margin: 2em 0;">
+{{ $key := .Get "id" }}
+{{ $link := index site.Data.affiliatelinks $key }}
+
+{{ if $link }}
+  <div style="text-align: center; margin: 2em 0;">
     <a 
       class="affiliate-button"
-      href="{{ .Get "url" }}?utm_source=kjetilfuras.com&utm_medium=affiliate&utm_campaign={{ .Get "campaign" | default "default" }}"
+      href="{{ $link.url }}?utm_source=kjetilfuras.com&utm_medium=affiliate&utm_campaign={{ $link.campaign }}"
       target="_blank"
       rel="nofollow sponsored noopener"
       data-ga-category="Affiliate"
-      data-ga-label="{{ .Get "label" | default (.Get "text") }}"
+      data-ga-label="{{ $link.label }}"
     >
-      {{ .Get "text" }}
+      {{ $link.label }}
     </a>
   </div>
+{{ else }}
+  <p style="color: red; font-weight: bold;">Affiliate link ID "{{ $key }}" not found.</p>
+{{ end }}

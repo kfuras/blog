@@ -1,0 +1,14 @@
+surfer_seo:
+  url: "https://partner.com/surfer"
+  label: "Surfer SEO"
+  campaign: "ai-tools"
+
+jasper_ai:
+  url: "https://partner.com/jasper"
+  label: "Jasper AI"
+  campaign: "ai-tools"
+
+vidnoz:
+  url: "https://partner.com/vidnoz"
+  label: "Vidnoz AI"
+  campaign: "video-tools"
