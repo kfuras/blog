@@ -8,7 +8,7 @@ defaultContentLanguage = "en"
 
 [params.author]
   name = "Kjetil Furås"
-  image = "http://localhost:1313/img/avatar.jpg"
+  image = "img/avatar.jpg"
   headline = "Senior Consultant @ Crayon"
   bio = "Senior Consultant @ Crayon"
   links = [
