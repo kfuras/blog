@@ -6,6 +6,9 @@ theme = "blowfish" # UNCOMMENT THIS LINE
 baseURL = "https://kjetilfuras.com/"
 defaultContentLanguage = "en"
 
+[permalinks]
+posts = "/:slug/"
+
 [params.author]
   name = "Kjetil Furås"
 #  image = "img/avatar.jpg"
