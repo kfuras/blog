@@ -1,1 +1,5 @@
+/blog/  /posts  301
 /posts/*  /:splat  301
+
+# fallback
+/*  /index.html  200
