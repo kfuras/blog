@@ -1,5 +1,6 @@
 ---
 title: "Vidnoz AI Review 2024: The Future of Video Intelligence"
+slug: vidnoz-ai-review
 date: '2024-03-13'
 lastmod: '2024-03-13'
 draft: false

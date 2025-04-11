@@ -1,5 +1,6 @@
 ---
 title: "Unlock Your Creativity with Lucidchart in 2024"
+slug: unlock-your-creativity-with-lucidchart
 date: '2024-02-15'
 lastmod: '2024-02-15'
 draft: false

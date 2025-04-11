@@ -1,5 +1,6 @@
 ---
 title: "How to Use Surfer SEO: Master On-Page SEO in 2024"
+slug: how-to-use-surfer-seo
 date: '2024-03-06'
 lastmod: '2024-03-06'
 draft: false

@@ -1,10 +1,11 @@
 ---
 title: "Custom Marking Colors in Microsoft Purview"
+slug: custom-marking-colors-in-microsoft-purview
 date: '2024-10-03'
 lastmod: '2024-10-03'
 draft: false
-description: "When working with sensitivity labels in Microsoft Purview, customizing header and footer content markings is key to maintaining your organization\u2019s branding and visual standards."
-summary: "When working with sensitivity labels in Microsoft Purview, customizing header and footer content markings is key to maintaining your organization\u2019s branding and visual standards."
+description: "When working with sensitivity labels in Microsoft Purview, customizing header and footer content markings is key to maintaining your organizations branding and visual standards."
+summary: "When working with sensitivity labels in Microsoft Purview, customizing header and footer content markings is key to maintaining your organizations branding and visual standards."
 keywords:
 - colors
 - custom

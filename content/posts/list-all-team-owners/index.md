@@ -1,5 +1,6 @@
 ---
 title: "How to List All Team Owners in Microsoft Teams"
+slug: list-all-team-owners
 date: '2024-10-03'
 lastmod: '2024-10-03'
 draft: false

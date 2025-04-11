@@ -1,10 +1,11 @@
 ---
 title: "Frase IO 2024 Review: Unveiling Excellence in AI Writing and Research"
+slug: frase-io-review
 date: '2024-03-01'
 lastmod: '2024-03-01'
 draft: false
-description: "If you\u2019re searching for a **Frase IO Review** that gets straight to the point, look no further."
-summary: "If you\u2019re searching for a **Frase IO Review** that gets straight to the point, look no further."
+description: "If you are searching for a **Frase IO Review** that gets straight to the point, look no further."
+summary: "If you are searching for a **Frase IO Review** that gets straight to the point, look no further."
 keywords:
 - '2024'
 - ai

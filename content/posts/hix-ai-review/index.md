@@ -1,5 +1,6 @@
 ---
 title: "HIX.AI Review 2024: Features & Pricing"
+slug: hix-ai-review
 date: '2024-01-05'
 lastmod: '2024-01-05'
 draft: false

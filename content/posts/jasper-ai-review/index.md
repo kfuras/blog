@@ -1,5 +1,6 @@
 ---
 title: "Jasper AI: A Comprehensive Review and Evaluation (2024)"
+slug: jasper-ai-review
 date: '2024-02-16'
 lastmod: '2024-02-16'
 draft: false

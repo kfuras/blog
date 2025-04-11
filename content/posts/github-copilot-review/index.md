@@ -1,5 +1,6 @@
 ---
 title: "GitHub Copilot Review 2024"
+slug: github-copilot-review
 date: '2024-02-13'
 lastmod: '2024-02-13'
 draft: false

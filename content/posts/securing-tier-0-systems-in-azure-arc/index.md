@@ -1,5 +1,6 @@
 ---
 title: "Securing Tier-0 Systems in Azure Arc: A Comprehensive Guide [2024]"
+slug: securing-tier-0-systems-in-azure-arc
 date: '2024-05-08'
 lastmod: '2024-05-08'
 draft: false

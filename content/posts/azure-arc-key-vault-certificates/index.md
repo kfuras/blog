@@ -1,5 +1,6 @@
 ---
 title: "Automate Certificates with Azure Arc &amp; Azure Key Vault"
+slug: azure-arc-key-vault-certificates
 date: '2025-03-21'
 lastmod: '2025-03-21'
 draft: false

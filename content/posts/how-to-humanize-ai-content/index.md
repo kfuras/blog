@@ -1,5 +1,6 @@
 ---
 title: "How to Humanize AI Content: 8 Essential Strategies for 2024"
+slug: how-to-humanize-ai-content
 date: '2024-03-11'
 lastmod: '2024-03-11'
 draft: false

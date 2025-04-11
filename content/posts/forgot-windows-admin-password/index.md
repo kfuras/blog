@@ -1,10 +1,11 @@
 ---
 title: "Forgot Windows Admin Password? Fix it Now [2025]"
+slug: forgot-windows-admin-password
 date: '2025-03-12'
 lastmod: '2025-03-12'
 draft: false
-description: "In this blog post, I\u2019ll walk you through the steps to regain access to your local admin account using Windows' built-in tools."
-summary: "In this blog post, I\u2019ll walk you through the steps to regain access to your local admin account using Windows' built-in tools."
+description: "In this blog post, I will walk you through the steps to regain access to your local admin account using Windows' built-in tools."
+summary: "In this blog post, I will walk you through the steps to regain access to your local admin account using Windows' built-in tools."
 keywords:
 - '2025'
 - admin

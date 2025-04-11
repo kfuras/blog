@@ -1,5 +1,6 @@
 ---
 title: "Chat GPT Content Creation: How to Transform Your Blogging Strategy in 2024"
+slug: chat-gpt-content-creation
 date: '2024-03-07'
 lastmod: '2024-03-07'
 draft: false

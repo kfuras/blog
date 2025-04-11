@@ -1,5 +1,6 @@
 ---
 title: "Automate Blog Image Creation Using Python"
+slug: automate-blog-image-creation-using-python
 date: '2025-04-07'
 lastmod: '2025-04-07'
 draft: false

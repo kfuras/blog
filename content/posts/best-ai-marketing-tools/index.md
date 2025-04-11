@@ -1,5 +1,6 @@
 ---
 title: "The 47+ Best AI Marketing Tools [2024]"
+slug: best-ai-marketing-tools
 date: '2024-02-26'
 lastmod: '2024-02-26'
 draft: false

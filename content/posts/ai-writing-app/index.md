@@ -1,5 +1,6 @@
 ---
 title: "13+ AI Writing Apps That Will Elevate Your Content Strategy in 2024"
+slug: ai-writing-app
 date: '2024-02-18'
 lastmod: '2024-02-18'
 draft: false

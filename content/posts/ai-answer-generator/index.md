@@ -1,5 +1,6 @@
 ---
 title: "Top 10 AI Answer Generators in 2024"
+slug: ai-answer-generator
 date: '2024-01-11'
 lastmod: '2024-01-11'
 draft: false

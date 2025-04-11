@@ -1,5 +1,6 @@
 ---
 title: "TensorPix Review 2024: An AI Video Enhancer in Focus"
+slug: tensorpix-review
 date: '2024-02-06'
 lastmod: '2024-02-06'
 draft: false

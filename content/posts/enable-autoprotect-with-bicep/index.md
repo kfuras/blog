@@ -1,5 +1,6 @@
 ---
 title: "Enable AUTOPROTECT with Bicep: A Step-by-Step Guide"
+slug: enable-autoprotect-with-bicep
 date: '2024-04-26'
 lastmod: '2024-04-26'
 draft: false
