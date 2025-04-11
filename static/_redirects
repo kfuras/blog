@@ -1,1 +1,3 @@
+/blog     /posts/    301
+/blog/    /posts/    301
 /posts/*  /posts/:splat  200
