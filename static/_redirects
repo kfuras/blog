@@ -1,3 +1,2 @@
 /blog/  /posts/  301
 /posts/*  /:splat  301
-/*  /index.html  200!
