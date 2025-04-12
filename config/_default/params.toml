@@ -9,7 +9,7 @@
   customCSS = ["css/custom.css"]
 
 [params.analytics]
-  google = G-YHS4W9FPBS
+  google = "G-YHS4W9FPBS"
 
 colorScheme = "blowfish"
 defaultAppearance = "dark" # valid options: light or dark
