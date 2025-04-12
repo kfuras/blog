@@ -152,7 +152,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 [buymeacoffee]
   identifier = "kjetilfuras"
   globalWidget = true
-  globalWidgetMessage = "Hello"
+  globalWidgetMessage = ""
   globalWidgetColor = "#FFDD00"
   globalWidgetPosition = "Left"
 
