@@ -5,12 +5,6 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-#[params.assets]
-  customCSS = ["css/custom.css"]
-
-#[params.analytics]
-#  google = "G-YHS4W9FPBS"
-
 colorScheme = "blowfish"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
