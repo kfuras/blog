@@ -1,0 +1,16 @@
+{{ with .Params.faq }}
+<section class="mt-4" id="frequently-asked-questions">
+  <div class="space-y-4">
+    {{ range . }}
+    <details
+      class="border p-4 rounded-lg transition duration-200 ease-in-out hover:shadow-md focus:outline-none focus:ring-0 focus:outline-offset-0"
+    >
+      <summary class="cursor-pointer font-medium text-neutral-800 dark:text-neutral-100">
+        {{ .question }}
+      </summary>
+      <p class="mt-2 text-neutral-700 dark:text-neutral-300">{{ .answer | markdownify }}</p>
+    </details>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
