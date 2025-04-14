@@ -25,8 +25,8 @@ defaultBackgroundImage = "/img/background.png" # used as default for background 
 defaultFeaturedImage = "/img/background.png" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
-# smartTOC = true
-# smartTOCHideUnfocusedChildren = false
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
 
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
