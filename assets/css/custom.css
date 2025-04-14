@@ -1,3 +1,4 @@
+/* Certification badges */
 .certifications-container {
     display: flex;
     flex-wrap: wrap;
@@ -44,6 +45,7 @@
     }
 }
 
+/* Affiliate button */
 .affiliate-button {
     display: inline-block;
     background-color: #007acc;
@@ -58,3 +60,9 @@
   .affiliate-button:hover {
     background-color: #005f99;
   }
+
+/* Increase content width */
+.article-content {
+    max-width: 100ch !important;
+  }
+  
