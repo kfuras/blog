@@ -1,11 +1,11 @@
 ---
-title: "TensorPix Review 2024: An AI Video Enhancer in Focus"
+title: "TensorPix Review (2026): Is It Worth It? Real Footage Test"
 slug: tensorpix-review
 date: '2024-02-06'
-lastmod: '2024-02-06'
+lastmod: '2026-04-21'
 draft: false
-description: "Are you looking for a [tool](https://kjetilfuras.com/best-ai-marketing-tools/) that can transform your low-resolution videos and photos into high-definition masterpieces?"
-summary: "Are you looking for a [tool](https://kjetilfuras.com/best-ai-marketing-tools/) that can transform your low-resolution videos and photos into high-definition masterpieces?"
+description: "TensorPix reviewed with real footage: free vs paid plans, pricing breakdown, and whether the AI upscaling is actually worth it in 2026."
+summary: "TensorPix reviewed with real footage: free vs paid plans, pricing breakdown, and whether the AI upscaling is actually worth it in 2026."
 keywords:
 - '2024'
 - ai
